@@ -1,1 +1,2 @@
-# IRS-Segmentation_mediapipe-opencv
+# IRS-Segmentation Mediapipe Python
+
