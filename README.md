@@ -2,9 +2,23 @@
 
 https://user-images.githubusercontent.com/66181793/150673670-7b12506f-67d6-4540-96f7-ea6233c01bd6.mp4
 
-[ Video Tutorial ](https://youtu.be/DNKAvDeqH_Y)
+## [Video Tutorial 📹](https://youtu.be/DNKAvDeqH_Y)
 
-[blog post ](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
+## [Blog post 📄](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
+
+## Installation
+
+### Windows ※
+
+```bash
+pip install --upgrade mediapipe 
+```
+
+### Linux🐧 or Mac🍎
+
+```bash
+pip3 install --upgrade mediapipe 
+```
 
 If You have any Question or need help in CV Project, Feel free to DM on Instagram  <a href="https://www.instagram.com/aiphile17/">  <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
 
