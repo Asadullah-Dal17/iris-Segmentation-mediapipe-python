@@ -9,9 +9,9 @@ https://user-images.githubusercontent.com/66181793/150673670-7b12506f-67d6-4540-
 </br>
 </details>
 
-[Video Tutorial 📹](https://youtu.be/DNKAvDeqH_Y)
+### [Video Tutorial 📹](https://youtu.be/DNKAvDeqH_Y)
 
-[Blog post 📄](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
+### [Blog post 📄](https://medium.com/mlearning-ai/iris-segmentation-mediapipe-python-a4deb711aae3)
 
 <details>
 <summary>Installation Section</summary>
