@@ -31,12 +31,28 @@ pip3 install --upgrade mediapipe
 ```
 </br>
 </details>
+## 📫 Let's Connect
 
-If You have any Question or need help in CV Project, Feel free to DM on Instagram  <a href="https://www.instagram.com/aiphile17/">  <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
+<div align=\"center\">
 
-## 💚🖤 Join me on Social Media 🖤💚
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@asadullah-dal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiphile17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aiphile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ai_phile)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aiphile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://asadullah-dal17.github.io/asadullahdal.github.io)
 
-<h4><a href="https://www.youtube.com/c/aiphile"> YouTube  <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="35"> </a>
- <a href="https://github.com/Asadullah-Dal17">  GitHub   <img alt="GitHub" src="https://user-images.githubusercontent.com/66181793/131223930-9fd2bfc7-9c43-465d-a057-55f3292f3b2b.png"  width="35"> </a>
-  <a href="https://medium.com/@asadullah92c">  Medium   <img alt="Medium" src="https://user-images.githubusercontent.com/66181793/146642235-bde4be12-603d-4eed-bd44-5b28829e17b3.png"  width="35"> </a>
-  <a href="https://www.instagram.com/aiphile17/">   Instagram <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="35"> </a> </h4>
+### 💼 Freelance Platforms
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/asadullahdal482)
+[![Kwork](https://img.shields.io/badge/Kwork-Freelance-black?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.com/user/asadullah92)
+
+</div>
+
+## 💬 Questions or Need Help?
+
+If you have any questions or need help with the project, feel free to DM me on [Instagram](https://www.instagram.com/aiphile17)!
+
+<a href="https://www.instagram.com/aiphile17">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" height=20  alt="Insta Badge"/>
+  </a>
